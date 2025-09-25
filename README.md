@@ -42,6 +42,9 @@ Go to https://portal.azure.com and sign in with your Azure account credentials.
 
 </p>
 <p>
-  
+^Step 2: Navigate to Virtual Machines.
+
+From the Azure services section on the homepage, click Virtual machines. 
 </p>
 <br />
+
