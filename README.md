@@ -1,4 +1,4 @@
-<h2>How-to-use-Remote-Desktop-Connection<h2>
+<h2>How to use Remote Desktop Connection<h2>
 <p align="center">
 <img width="360" height="270" alt="rdp-icon" src="https://github.com/user-attachments/assets/6889c7e9-e23a-4398-b2a2-1923e8a4ff81" />
 
