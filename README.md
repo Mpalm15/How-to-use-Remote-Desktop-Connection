@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and tutorial of opening Remote Desktop 
 <h2>How to Use Remote Desktop to Access an Azure Virtual Machine</h2>
 
 <img width="1100" height="213" alt="sc1" src="https://github.com/user-attachments/assets/020eda54-a535-4830-b69a-82ace6935679" />
-
+<hr>
 </p>
 <p>
 ^Step 1: Log into the Azure Portal.
@@ -47,10 +47,11 @@ Go to https://portal.azure.com and sign in with your Azure account credentials.
 From the Azure services section on the homepage, click Virtual machines. 
 </p>
 <br />
-
+<hr>
 <p>
-  <img width="1903" height="505" alt="Sc2" src="https://github.com/user-attachments/assets/bc8a7db9-c339-4114-88d1-ae12ccd8fcdb" />
+  <img width="1903" height="505" altt="Sc2" src="https://github.com/user-attachments/assets/bc8a7db9-c339-4114-88d1-ae12ccd8fcdb" /> 
 </p>
+<hr>
 <p>
 ^Step 3: Copy the Public IP Address.
 
