@@ -60,9 +60,11 @@ Copy the Public IP address listed for the VM (e.g., 4.227.176.15).
 </p>
 <br />
 
+<hr>
 <p>
 <img width="430" height="273" alt="Sc3" src="https://github.com/user-attachments/assets/0cca68fa-00be-4d34-9f6a-1063d0cebd72" />
   </p>
+  <hr>
   <p>
  ^Step 4: Open Remote Desktop Connection.
 
@@ -71,9 +73,11 @@ Type Remote Desktop Connection and open the app.
   </p>
   <br />
 
+<hr>
   <p>
  <img width="468" height="606" alt="Sc4" src="https://github.com/user-attachments/assets/27441cca-df63-4fdb-8deb-c4d5fae62938" />
   </p>
+  <hr>
   <p>
  ^Step 5: Enter IP and Credentials.
 
@@ -83,9 +87,11 @@ Click Connect.
   </p>
   <br />
 
+<hr>
   <p>
  <img width="1907" height="1121" alt="Sc5" src="https://github.com/user-attachments/assets/47bf9d73-a9b4-4e05-a1ad-da6937242a03" />
    </p>
+   <hr>
 <p>
 ^Step 6: Access the Virtual Machine.
 
